@@ -1,3 +1,4 @@
+- Understood how public commits are counted
 ## Day 4 Progress
 Learning how GitHub commits work for Web3 tasks.
 Added additional notes and minor improvements.
