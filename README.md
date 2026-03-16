@@ -8,3 +8,7 @@ Personal notes and resources while learning Web3, blockchain, and crypto fundame
 - Learned how public GitHub commits are counted for Web3 tasks
 - Practiced making meaningful commits
 - Updated repository structure and notes
+
+## Web3 Concept
+- Web3 focuses on decentralization
+- Blockchain enables trustless applications
