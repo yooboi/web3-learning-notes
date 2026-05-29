@@ -16,3 +16,7 @@ Personal notes and resources while learning Web3, blockchain, and crypto fundame
 ## Web3 Concept
 - Web3 focuses on decentralization
 - Blockchain enables trustless applications
+
+## Blockchain Note
+- Blocks are linked together using cryptographic hashes
+- Blockchain data is transparent and immutable
